@@ -1,0 +1,10 @@
+  * Software
+    * [G-Code](GCode.md)
+    * [Setup LeJOS NXJ API](SetupLeJOS.md)
+    * [Motion Equations](MotionEquations.md)
+  * [Hardware](Hardware.md)
+    * [Design](Design.md)
+    * [Building Instructions](BuildingInstructions.md)
+      * [Extruder](Extruder.md)
+  * [Task List](TaskList.md)
+  * [Scholar](Scholar.md)

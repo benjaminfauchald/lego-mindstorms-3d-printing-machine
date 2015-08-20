@@ -1,0 +1,1 @@
+For detailed info see [here](http://lego-mindstorms-3d-printing-machine.googlecode.com/files/feedrate_calculations_and_lejos_papachristoum.pdf)
